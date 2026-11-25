@@ -1,2 +1,2 @@
-# TA_PROGDAS_IBRAHIM_21120126140196_CampusMart
- CampusMart adalah aplikasi simulasi belanja online, memudahkan pengguna melakukan proses pembelian produk secara digital. Program ini mengadaptasi konsep marketplace sederhana, pengguna dapat melihat katalog produk, mencari barang yang diinginkan, menambahkan produk ke keranjang belanja, melakukan transaksi pembelian melalui sistem saldo virtual.
+# TA_PROGDAS_IBRAHIM_21120126140196_ArtVault
+ ArtVault adalah aplikasi desktop berbasis GUI yang digunakan untuk mengelola, mengorganisasi, dan menampilkan koleksi gambar digital. Aplikasi memungkinkan pengguna menyimpan berbagai karya visual ke dalam galeri virtual, kemudian melakukan pencarian, pengelompokan, dan penelusuran berdasarkan kategori tertentu.
